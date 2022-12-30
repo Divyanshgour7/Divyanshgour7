@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Divyanshgour7
-- 👀 I’m interested in C and C++
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am interested in Embedded Systems,Embedded C,C++.
+- 🌱 Learning microcontrollers, protocols, CAN.
 - 📫 How to reach me divyanshgour7@gmail.com
 
 <!---
